@@ -1,0 +1,14 @@
+.vertical-container {
+  height: 500px;
+  display: -webkit-flex;
+  display:         flex;
+  -webkit-align-items: center;
+          align-items: center;
+  -webkit-justify-content: center;
+          justify-content: center;
+
+}
+.manageForm{position:relative;width:600px}
+ 
+ .manageForm .backBtn{display:block;position:absolute;top:-50px;right:520px;width:80px;height:40px;padding:0px;border-radius:5px;
+ font-size:14px;font-weight:700;color:#fff;line-height:30px;text-align:center;text-shadow:1px 1px 1px #004773;background:#333}

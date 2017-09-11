@@ -1,0 +1,19 @@
+.vertical-container {
+  height: 500px;
+  display: -webkit-flex;
+  display:         flex;
+  -webkit-align-items: center;
+          align-items: center;
+  -webkit-justify-content: center;
+          justify-content: center;
+
+}
+
+ .manageForm{position:relative;width:400px}
+
+ .manageForm .manageBtn{display:block;position:absolute;top:0;right:300px;width:130px;height:60px;padding:0px;border-radius:5px;
+ font-size:14px;font-weight:700;color:#fff;line-height:60px;text-align:center;text-shadow:1px 1px 1px #004773;background:#333}
+ .manageForm .projectBtn{display:block;position:absolute;top:0;right:150px;width:130px;height:60px;padding:0px;border-radius:5px;
+ font-size:14px;font-weight:700;color:#fff;line-height:60px;text-align:center;text-shadow:1px 1px 1px #004773;background:#333}
+  .manageForm .backBtn{display:block;position:absolute;top:0;right:0px;width:130px;height:60px;padding:0px;border-radius:5px;
+ font-size:14px;font-weight:700;color:#fff;line-height:60px;text-align:center;text-shadow:1px 1px 1px #004773;background:#333}

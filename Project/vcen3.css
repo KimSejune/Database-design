@@ -1,0 +1,19 @@
+.vertical-container {
+  height: 500px;
+  display: -webkit-flex;
+  display:         flex;
+  -webkit-align-items: center;
+          align-items: center;
+  -webkit-justify-content: center;
+          justify-content: center;
+
+}
+
+ .manageForm{position:relative;width:400px}
+ .manageForm .box{width:326px}
+ .manageForm .box .iText{width:300px;margin:3px 0;padding:10px 12px;border:1px solid #e1e1e1}
+ .manageForm .box p{margin-top:1em}
+ .manageForm .box p span{font-size: 10px}
+ .manageForm .box p input{height:18px;font-size:11px;color:#737373;line-height:18px;vertical-align:middle}
+ .manageForm .searchBtn{display:block;position:absolute;top:0;right:0;width:60px;height:40px;padding:0px;border-radius:5px;
+ font-size:14px;font-weight:700;color:#fff;line-height:30px;text-align:center;text-shadow:1px 1px 1px #004773;background:#333}
